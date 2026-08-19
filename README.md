@@ -18,7 +18,8 @@ What has been done and is working:
 
 7. The Engineering  Panel Tool module provides system data upon request from external programs in accordance with the following format: 
 
-```SYNCHRONOUS RESPONSE FORMAT OF THE get_current_stem_context ( ) -> dict METHOD :
+```
+SYNCHRONOUS RESPONSE FORMAT OF THE get_current_stem_context ( ) -> dict METHOD :
 {
 " environment ": "String ", # Active engineering development environment.
 #  Options  : " arduino ", " freecad ", " trik ", " pico ", "pi", "unknown" 
@@ -26,7 +27,8 @@ What has been done and is working:
 # Applicable to " Arduino ". If the environment is different, use " Unknown ".
 " port ": "String" # Active COM port identifier (e.g. "COM4").
 # Applicable to " arduino " and " trik ". If not found - "Not connected"
-}```
+}
+```
 
 8. Using this  API  and a local installation of the  Ollama server with the qwen2.5 library, a  Pyzo-  embedded  AI  Assistant  Tool  module was created  that takes into account the syntax specifics for each of the shells. 
 
