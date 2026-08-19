@@ -40,4 +40,4 @@ The package is built using the suggested folder structure.  Pyzo  is installed a
 
 Setting up relative paths of system components is done using a  bat  file in the root folder. 
 
-For familiarization, you can use the already compiled folder with ready-to-run Pyzo and Russian-language configuration files (but the heavyweight Arduino and Ollama libraries will still have to be downloaded separately), the archive with which is located in https://drive.google.com/file/d/13vRqMo90XD9w13iEMoXxB4NGpHGTF73H/view?usp=drive_link
+For familiarization, you can use the folder with ready-to-run Pyzo and Russian-language configuration files (but the heavyweight Arduino and Ollama libraries will still have to be downloaded separately), the archive with which is located in https://drive.google.com/file/d/13vRqMo90XD9w13iEMoXxB4NGpHGTF73H/view?usp=drive_link
