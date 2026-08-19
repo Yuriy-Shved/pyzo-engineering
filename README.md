@@ -39,3 +39,5 @@ Structure of the Pyzo engineering add-on:
 The package is built using the suggested folder structure.  Pyzo  is installed as a  Python interpreter module.  FreeCAD with the  python -m pyzo  command  in the  FreeCAD \ bin folder  . A  pyserial folder  with  COM  port libraries is created in  PyzoSource  \  internal  \  pyzo  \  tools  \  EngineeringPanelTool 
 
 Setting up relative paths of system components is done using a  bat  file in the root folder. 
+
+For familiarization, you can use the already compiled folder with ready-to-run Pyzo and Russian-language configuration files (but the heavyweight Arduino and Ollama libraries will still have to be downloaded separately), the archive with which is located in https://drive.google.com/file/d/13vRqMo90XD9w13iEMoXxB4NGpHGTF73H/view?usp=drive_link
